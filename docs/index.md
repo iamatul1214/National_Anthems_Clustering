@@ -41,3 +41,36 @@ pip install -r requirements.txt
 
 ### Elbow Method
 ### Silhouette Score
+
+
+### Importing the libraries
+```bash
+# data structures
+import pandas as pd
+import numpy as np
+# import geopandas as gpd
+import json
+
+# Corpus processing
+import re
+import nltk.corpus
+from unidecode import unidecode
+from nltk.tokenize import word_tokenize
+from nltk import SnowballStemmer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.preprocessing import normalize
+
+# clustering
+from sklearn import cluster
+
+# visualization
+import matplotlib.pyplot as plt
+import matplotlib.cm as cm
+import seaborn as sns
+from sklearn.metrics import silhouette_samples, silhouette_score
+from wordcloud import WordCloud
+
+# Map visualization
+import folium
+from branca.element import Figure
+```
