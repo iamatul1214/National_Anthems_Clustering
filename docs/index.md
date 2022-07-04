@@ -77,4 +77,4 @@ from branca.element import Figure
 
 ## word clouds formed from dataset of national anthems
 ### Common words of cluster 0
-![cluster 0](/Images\wordclouds\cluster__0.png "Text to show on mouseover")
+![cluster 0](\National_Anthem_Clusters\Images\wordclouds\cluster__0.png "common words in cluster 1")
