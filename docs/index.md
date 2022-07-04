@@ -74,3 +74,7 @@ from wordcloud import WordCloud
 import folium
 from branca.element import Figure
 ```
+
+## word clouds formed from dataset of national anthems
+### Common words of cluster 0
+![cluster 0](/Images\wordclouds\cluster__0.png "Text to show on mouseover")
