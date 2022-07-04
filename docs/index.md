@@ -77,4 +77,4 @@ from branca.element import Figure
 
 ## word clouds formed from dataset of national anthems
 ### Common words of cluster 0
-![cluster 0](https://github.com/iamatul1214/National_Anthems_Clustering/blob/main/Images/wordclouds/cluster__0.png "common words in cluster 1")
+![alt text](https://github.com/iamatul1214/National_Anthems_Clustering/blob/main/Images/wordclouds/cluster__0.png "common words in cluster 1")
